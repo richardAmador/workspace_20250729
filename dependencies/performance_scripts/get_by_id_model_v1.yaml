@@ -1,0 +1,2 @@
+data_in: /home/tc/workspace/data_in/data_in_demo_jsonplaceholder.csv
+preprocessor_1: /home/tc/workspace/dependencies/replace_url_path_vars.groovy
